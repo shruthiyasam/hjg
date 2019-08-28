@@ -4,7 +4,7 @@ public class Bnag {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("jjs");
+		System.out.println("jjskjk");
 
 	}
 
